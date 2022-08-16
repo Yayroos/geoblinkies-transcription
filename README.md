@@ -1,3 +1,17 @@
+
+# Geoblinkies Transcription page
+
+This is a page to simplify the process of transcribing new blinkies into the collection for the geoblinkies project.
+To run the test version, first download a code editor of your choice (I prefer VSCode), as well as git, and NodeJS (version 16.14.0). Then clone this repo, open a terminal in the transcription directory and run
+
+```
+npm install
+npm start
+```
+
+Your browser will open and connect to a local test server, where the tool will run.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
